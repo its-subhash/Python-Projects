@@ -1,4 +1,4 @@
-# Hellp this is Program for maintainig a persons's Diet and Excercise
+# Hello this is Program for maintainig a persons's Diet and Excercise
 def getdate():
     import datetime
     return datetime.datetime.now()
