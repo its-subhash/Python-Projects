@@ -1,4 +1,4 @@
-print("\nWelcome in our calculator "
+print("\nWelcome in our calculator"
 ,"\nPlease select your operator from following:")
 print(
  "\n(1) For Addition  or Subtraction select : O"

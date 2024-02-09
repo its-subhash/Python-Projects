@@ -8,7 +8,6 @@ def board(playerX,playerO):
     six  = "X" if playerX[6] else("O" if playerO[6] else "6")
     seven= "X" if playerX[7] else("O" if playerO[7] else "7")
     eight= "X" if playerX[8] else("O" if playerO[8] else "8")
-
     print(f" {zero} | {one} | {two} ")
     print("---|---|----")
     print(f" {three} | {four} | {five} ")
